@@ -1,0 +1,17 @@
+# usual excludes
+.vscode
+**/__pycache__
+
+# large files [required]
+# download from this drive folder:
+# https://drive.google.com/drive/folders/1BvoxkRDBK86A3_oNdQrnC8TLvp4l0W9x
+datasets/*.pckl
+images_d/*.rar
+real-time-HGR-application/.sources/*.pkl
+ieee-icma-2023-conference/*.mp4
+
+# temporary files
+archive/
+sync.ffs_db
+.sources/
+.archive/

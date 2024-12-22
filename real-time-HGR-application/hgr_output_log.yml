@@ -1,0 +1,153 @@
+--- e2eET HGR Log @ 2024-12-22 21:03:11.278557 ----------------------------
+-------------------------
+>HGR: @20241222.210549.664864: len(gs_deque)=711->>-00 | gs.shape=(711, 21, 3)
+>HGR: @20241222.210549.664864 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.210549 ~ [latency=00:00:09] ~ [aggregate=SwipeX(6)]
+		- custom:: SwipeX(6)
+		- top-down:: SwipeX(6)
+		- front-away:: SwipeX(6)
+		- ensemble-tuner:: SwipeX(6)
+-------------------------
+>HGR: @20241222.210605.417518: len(gs_deque)=02->>-00 | gs.shape=(2, 21, 3)
+>HGR: @20241222.210605.417518 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.210605 ~ [latency=00:00:01] ~ [aggregate=SwipeDown(1)]
+		- custom:: SwipeDown(1)
+		- top-down:: SwipeDown(1)
+		- front-away:: SwipeUp(4)
+		- ensemble-tuner:: SwipeLeft(2)
+-------------------------
+>HGR: @20241222.210624.978019: len(gs_deque)=05->>-00 | gs.shape=(5, 21, 3)
+>HGR: @20241222.210624.978019 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.210624 ~ [latency=00:00:02] ~ [aggregate=SwipeDown(1)]
+		- custom:: SwipeDown(1)
+		- top-down:: SwipeLeft(2)
+		- front-away:: SwipeDown(1)
+		- ensemble-tuner:: SwipeDown(1)
+-------------------------
+>HGR: @20241222.210658.952677: len(gs_deque)=33->>-00 | gs.shape=(33, 21, 3)
+>HGR: @20241222.210658.952677 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.210658 ~ [latency=00:00:02] ~ [aggregate=SwipeLeft(2)]
+		- custom:: SwipeLeft(2)
+		- top-down:: SwipeLeft(2)
+		- front-away:: SwipeUp(4)
+		- ensemble-tuner:: SwipeX(6)
+-------------------------
+>HGR: @20241222.210733.611695: len(gs_deque)=46->>-00 | gs.shape=(46, 21, 3)
+>HGR: @20241222.210733.611695 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.210733 ~ [latency=00:00:02] ~ [aggregate=SwipeDown(1)]
+		- custom:: SwipeDown(1)
+		- top-down:: SwipeLeft(2)
+		- front-away:: SwipeDown(1)
+		- ensemble-tuner:: SwipeDown(1)
+-------------------------
+>HGR: @20241222.210858.871422: len(gs_deque)=311->>-00 | gs.shape=(311, 21, 3)
+>HGR: @20241222.210858.871422 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.210858 ~ [latency=00:00:05] ~ [aggregate=SwipeX(6)]
+		- custom:: SwipeX(6)
+		- top-down:: SwipeRight(3)
+		- front-away:: SwipeX(6)
+		- ensemble-tuner:: SwipeX(6)
+-------------------------
+>HGR: @20241222.210920.349128: len(gs_deque)=11->>-00 | gs.shape=(11, 21, 3)
+>HGR: @20241222.210920.349128 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.210920 ~ [latency=00:00:01] ~ [aggregate=SwipeDown(1)]
+		- custom:: SwipeDown(1)
+		- top-down:: SwipeLeft(2)
+		- front-away:: SwipeDown(1)
+		- ensemble-tuner:: SwipeDown(1)
+-------------------------
+>HGR: @20241222.210950.511452: len(gs_deque)=12->>-00 | gs.shape=(12, 21, 3)
+>HGR: @20241222.210950.511452 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.210950 ~ [latency=00:00:01] ~ [aggregate=SwipeDown(1)]
+		- custom:: SwipeDown(1)
+		- top-down:: SwipeLeft(2)
+		- front-away:: SwipeDown(1)
+		- ensemble-tuner:: SwipeDown(1)
+-------------------------
+>HGR: @20241222.211001.771947: len(gs_deque)=13->>-00 | gs.shape=(13, 21, 3)
+>HGR: @20241222.211001.771947 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.211001 ~ [latency=00:00:02] ~ [aggregate=SwipeLeft(2)]
+		- custom:: SwipeLeft(2)
+		- top-down:: SwipeLeft(2)
+		- front-away:: SwipeDown(1)
+		- ensemble-tuner:: SwipeX(6)
+-------------------------
+>HGR: @20241222.211018.267321: len(gs_deque)=16->>-00 | gs.shape=(16, 21, 3)
+>HGR: @20241222.211018.267321 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.211018 ~ [latency=00:00:01] ~ [aggregate=SwipeLeft(2)]
+		- custom:: SwipeLeft(2)
+		- top-down:: SwipeDown(1)
+		- front-away:: SwipeUp(4)
+		- ensemble-tuner:: SwipeDown(1)
+-------------------------
+>HGR: @20241222.211027.027189: len(gs_deque)=38->>-00 | gs.shape=(38, 21, 3)
+>HGR: @20241222.211027.027189 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.211027 ~ [latency=00:00:01] ~ [aggregate=SwipeLeft(2)]
+		- custom:: SwipeLeft(2)
+		- top-down:: SwipeLeft(2)
+		- front-away:: SwipeUp(4)
+		- ensemble-tuner:: SwipeX(6)
+-------------------------
+>HGR: @20241222.211034.724553: len(gs_deque)=16->>-00 | gs.shape=(16, 21, 3)
+>HGR: @20241222.211034.724553 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.211034 ~ [latency=00:00:02] ~ [aggregate=SwipeLeft(2)]
+		- custom:: SwipeLeft(2)
+		- top-down:: SwipeLeft(2)
+		- front-away:: SwipeUp(4)
+		- ensemble-tuner:: SwipeX(6)
+-------------------------
+>HGR: @20241222.211040.765303: len(gs_deque)=20->>-00 | gs.shape=(20, 21, 3)
+>HGR: @20241222.211040.765303 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.211040 ~ [latency=00:00:02] ~ [aggregate=SwipeUp(4)]
+		- custom:: SwipeLeft(2)
+		- top-down:: SwipeDown(1)
+		- front-away:: SwipeUp(4)
+		- ensemble-tuner:: SwipeDown(1)
+-------------------------
+>HGR: @20241222.211048.410037: len(gs_deque)=34->>-00 | gs.shape=(34, 21, 3)
+>HGR: @20241222.211048.410037 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.211048 ~ [latency=00:00:01] ~ [aggregate=SwipeUp(4)]
+		- custom:: SwipeUp(4)
+		- top-down:: SwipeRight(3)
+		- front-away:: SwipeUp(4)
+		- ensemble-tuner:: SwipeX(6)
+-------------------------
+>HGR: @20241222.211055.679968: len(gs_deque)=20->>-00 | gs.shape=(20, 21, 3)
+>HGR: @20241222.211055.679968 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.211055 ~ [latency=00:00:02] ~ [aggregate=SwipeUp(4)]
+		- custom:: SwipeUp(4)
+		- top-down:: SwipeRight(3)
+		- front-away:: SwipeUp(4)
+		- ensemble-tuner:: SwipeX(6)
+-------------------------
+>HGR: @20241222.211106.206416: len(gs_deque)=28->>-00 | gs.shape=(28, 21, 3)
+>HGR: @20241222.211106.206416 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.211106 ~ [latency=00:00:01] ~ [aggregate=SwipeLeft(2)]
+		- custom:: SwipeLeft(2)
+		- top-down:: SwipeRight(3)
+		- front-away:: SwipeDown(1)
+		- ensemble-tuner:: SwipeX(6)
+-------------------------
+>HGR: @20241222.211112.365759: len(gs_deque)=46->>-00 | gs.shape=(46, 21, 3)
+>HGR: @20241222.211112.365759 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.211112 ~ [latency=00:00:01] ~ [aggregate=SwipeLeft(2)]
+		- custom:: SwipeLeft(2)
+		- top-down:: SwipeLeft(2)
+		- front-away:: SwipeUp(4)
+		- ensemble-tuner:: SwipeX(6)
+-------------------------
+>HGR: @20241222.211115.970809: len(gs_deque)=11->>-00 | gs.shape=(11, 21, 3)
+>HGR: @20241222.211115.970809 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.211115 ~ [latency=00:00:02] ~ [aggregate=SwipeDown(1)]
+		- custom:: SwipeLeft(2)
+		- top-down:: SwipeLeft(2)
+		- front-away:: SwipeDown(1)
+		- ensemble-tuner:: SwipeX(6)
+-------------------------
+>HGR: @20241222.211123.861303: len(gs_deque)=22->>-00 | gs.shape=(22, 21, 3)
+>HGR: @20241222.211123.861303 gesture sequence visualized and saved.
+>HGR: Inferences @data-gci/20241222.211123 ~ [latency=00:00:02] ~ [aggregate=SwipeUp(4)]
+		- custom:: SwipeUp(4)
+		- top-down:: SwipeRight(3)
+		- front-away:: SwipeUp(4)
+		- ensemble-tuner:: SwipeX(6)
